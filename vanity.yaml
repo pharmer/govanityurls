@@ -1,8 +1,11 @@
-host: rakyll.pizza
+host: pharmer.dev
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
-
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /cloud:
+    repo: https://github.com/pharmer/cloud
+  /cloud-controller-manager:
+    repo: https://github.com/pharmer/cloud-controller-manager
+  /pharmer:
+    repo: https://github.com/pharmer/pharmer
+  /pre-k:
+    repo: https://github.com/pharmer/pre-k
